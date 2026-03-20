@@ -157,5 +157,5 @@ jupyter notebook
 
 ---
 
-*Built by [Your Name] — Final Year IT Engineering Student, SPPU*
-*Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)*
+*Built by Manish Patil — Final Year IT Engineering Student, SPPU*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-patil-009389321)*
